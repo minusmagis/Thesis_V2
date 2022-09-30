@@ -1,0 +1,27 @@
+TY  - JOUR
+TI  - GaAs, a Sensitive Photodiode for the Visible
+AB  - Highly sensitive photodiodes have been formed in n-type GaAs by diffusion of Cd and Zn. The photodiodes display a peak monochromatic sensitivity of 6×10-13 w (cps)-12 at 8500 A and have half-sensitivity points at 9100 and 5600 A. The dynamic impedance of these detectors is in the order of one meg and their time constant, which is determined by the dynamic impedance and junction capacity, is on the order of 1 msec. Noise measurements in the 200–1500-cps region show no evidence of any 1/f component. Preliminary experiments indicate that these photodiodes are equally sensitive when operated in the back-biased or photoconductive mode. The detectors operate at room temperature and do not require encapsulation. Several detectors have been successfully immersed behind sapphire optics. The optical transparency of GaAs in the 1- to 5-μ region enables the detector to be used in front of a suitable I. R. detector, e.g., InAs, in “two-color” detection systems. The sensitivity of this detector is found to compare favorably with a commercial photomultiplier.
+AU  - Lucovsky, G.
+AU  - Cholet, P. H.
+PB  - OSA
+DA  - 1960/10/01
+PY  - 1960
+T2  - Journal of the Optical Society of America
+J2  - J. Opt. Soc. Am.
+JF  - Journal of the Optical Society of America
+JO  - J. Opt. Soc. Am.
+JA  - J. Opt. Soc. Am.
+VL  - 50
+IS  - 10
+SP  - 979
+EP  - 983
+KW  - Detectors
+KW  - Low light levels
+KW  - Photodetectors
+KW  - Photon counting
+KW  - Transparency
+KW  - Visible light
+UR  - http://opg.optica.org/abstract.cfm?URI=josa-50-10-979
+DO  - 10.1364/JOSA.50.000979
+ER  -
+

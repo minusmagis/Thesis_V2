@@ -1,0 +1,1 @@
+@article{der wiel_egelhaaf_issa_roos_henze_2014, title={Market Readiness of Organic Photovoltaics for Building Integration}, volume={1639}, DOI={10.1557/opl.2014.88}, journal={MRS Proceedings}, publisher={Cambridge University Press}, author={der Wiel, Bas van and Egelhaaf, Hans-Joachim and Issa, Hermann and Roos, Maria and Henze, Norbert}, year={2014}, pages={mrsf13–1639-y10–03}}
