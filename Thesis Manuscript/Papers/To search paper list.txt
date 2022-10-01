@@ -1,0 +1,18 @@
+[17] Tang C W 1986 Two-layer organic photovoltaic cell Appl. Phys. Lett. 48 183–5
+[18] Sariciftci N S, Smilowitz L, Heeger A J and Wudl F 1992 Photoinduced electron transfer from a conducting polymer to buckminsterfullerene Science 258 1474–6 
+[19] Shigenori M A A Z and Katsumi Y 1992 Doping effect of buckminsterfullerene in conducting polymer: change of absorption spectrum and quenching of luminescene Solid State Commun. 82 249–52
+[20] Yu G, Gao J, Hummelen J C, Wudl F and Heeger A J 1995 Polymer photovoltaic cells: enhanced efficiencies via a network of internal donor–acceptor heterojunctions Science 270 1789–91
+[21] Kumaresan P, Vegiraju S, Ezhumalai Y, Yau S, Kim C, Lee W-H and Chen M-C 2014 Fused-thiophene based materials for organic photovoltaics and dye-sensitized solar cells Polymers 6 2645–69
+[22] Li G, Shrotriya V, Huang J, Yao Y, Moriarty T, Emery K and Yang Y 2005 High-efficiency solution processable polymer photovoltaic cells by self-organization of polymer blends Nat. Mater. 4 864–8
+[23] Reyes-Reyes M, Kim K and Carroll D L 2005 Highefficiency photovoltaic devices based on annealed poly(3-hexylthiophene) and 1-(3-methoxycarbonyl)-propyl-1-phenyl-(6,6)C[sub 61] blends Appl. Phys. Lett. 87 083506
+[24] Kim K, Liu J, Namboothiry M A G and Carroll D L 2007 Roles of donor and acceptor nanodomains in 6% efficient thermally annealed polymer photovoltaics Appl. Phys. Lett. 90 163511
+[25] Blouin N, Michaud A, Gendron D, Wakim S, Blair E, Neagu-Plesu R, Belletête M, Durocher G, Tao Y and Leclerc M 2008 Toward a rational design of poly(2,7- carbazole) derivatives for solar cells J. Am. Chem. Soc. 130 732–42
+[26] Blouin N, Michaud A and Leclerc M 2007 A low-bandgap poly(2,7-carbazole) derivative for use in high-performance solar cells Adv. Mater. 19 2295–300
+[27] Park S H, Roy A, Beaupré S, Cho S, Coates N, Moon J S, Moses D, Leclerc M, Lee K and Heeger A J 2009 Bulk heterojunction solar cells with internal quantum efficiency approaching 100% Nat. Photonics 3 297–302
+[28] He Z, Zhong C, Su S, Xu M, Wu H and Cao Y 2012 Enhanced power-conversion efficiency in polymer solar cells using an inverted device structure Nat. Photonics 6 593–7
+[29] Zhang Q et al 2014 Small-molecule solar cells with efficiency over 9% Nat. Photonics 9 35–41
+[30] Shaheen S E, Brabec C J, Sariciftci N S, Padinger F, Fromherz T and Hummelen J C 2001 2.5% efficient organic plastic solar cells Appl. Phys. Lett. 78 841–3 
+[31] Franz P R S R and Niyazi S S 2003 Effects of postproduction treatment on plastic solar cells Adv. Funct. Mater. 13 85–8
+[32] Irwin M D, Buchholz D B, Hains A W, Chang R P H and Marks T J 2008 p-Type semiconducting nickel oxide as an efficiency-enhancing anode interfacial layer in polymer bulk-heterojunction solar cells Proc.  Natl Acad. Sci. 105 2783–7  
+[33] Lenes M, Wetzelaer G-J A H, Kooistra F B, Veenstra S C, Hummelen J C and Blom P W M 2008 Fullerene bisadducts for enhanced open-circuit voltages and efficiencies in polymer solar cells Adv. Mater. 20 2116–9 
+[34] National Renewable Energy Laboratory 2015 Research Cell Efficiency Records Available from (http://nrel.gov/ncpv/ images/efficiency_chart.jpg) 

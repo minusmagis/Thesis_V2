@@ -1,0 +1,26 @@
+5] P. Peumans, V. Bulovic and S. R. Forrest, Appl. Phys. Lett., 2000, 76, 2650–2652.
+6] J. Liu, M. A. G. Namboothiry and D. L. Carroll, Appl. Phys. Lett., 2007, 90, 133515–133517. 
+7] B. O’Connor, D. Nothern, K. P. Pipe and M. Shtein, Opt. Express, 2010, 18, A432–A443.
+8] M. Niggemann, M. Glatthaar, P. Lewer, C. M€uller, J. Wagner and A. Gombert, Thin Solid Films, 2006, 511–512, 628–633.
+9] S.-B. Rim, S. Zhao, S. R. Scully, M. D. McGehee and P. Peumans, Appl. Phys. Lett., 2007, 91, 243501–243503.
+10] K. Tvingstedt, V. Andersson, F. Zhang and O. Ingan€as, Appl. Phys.  Lett., 2007, 91, 123514–123516.
+11] K. Tvingstedt, S. Dal Zilio, O. Ingan€as and M. Tormen, Opt. Express, 2008, 16, 21608–21615.
+12] S. D. Zilio, K. Tvingstedt, O. Ingan€as and M. Tormen, Microelectron. Eng., 2009, 86, 1150–1154.
+13] E. Yablonovitch, J. Opt. Soc. Am., 1982, 72, 899–907.
+14] P. Campbell and M. A. Green, IEEE Trans. Electron Devices, 1986, 33, 234–239.
+15] Z. Yu, A. Raman and S. Fan, Proc. Natl. Acad. Sci. U. S. A., 2010, 107, 17491–17496.
+16] Z. Yu, A. Raman and S. Fan, Opt. Express, 2010, 18, A366–A380.
+17] D. Duche, L. Escoubas, J.-J. Simon, P. Torchio, W. Vervisch and F. Flory, Appl. Phys. Lett., 2008, 92, 193310–193312.
+18] J. R. Tumbleston, D.-H. Ko, E. T. Samulski and R. Lopez, Appl. Phys. Lett., 2009, 94, 043305–043307.
+19] J. G. Mutitu, S. Shi, C. Chen, T. Creazzo, A. Barnett, C. Honsberg and D. W. Prather, Opt. Express, 2008, 16, 15238–15248.
+20] P. Bermel, C. Luo, L. Zeng, L. C. Kimerling and J. D. Joannopoulos, Opt. Express, 2007, 15, 16986–17000. 
+21] Y. Park, E. Drouard, O. El Daif, X. Letartre, P. Viktorovitch, A. Fave, A. Kaminski, M. Lemiti and C. Seassal, Opt. Express, 2009, 17, 14312–14321.
+22] L. Zeng, Y. Yi, C. Hong, J. Liu, N. Feng, X. Duan, L. C. Kimerling and B. A. Alamariu, Appl. Phys. Lett., 2006, 89, 111111–111113.
+23] D.-H. Ko, J. R. Tumbleston, L. Zhang, S. Williams, J. M. DeSimone, R. Lopez and E. T. Samulski, Nano Lett., 2009, 9, 2742–2746.
+24] D.-H. Ko, J. R. Tumbleston, W. Schenck, R. Lopez and E. T. Samulski, J. Phys. Chem. C, 2011, 115, 4247–4254.
+25] S. Guldin, S. Huttner, M. Kolle, M. E. Welland, P. Muller- Buschbaum, R. H. Friend, U. Steiner and N. Tetreault, Nano Lett., 2010, 10, 2303–2309.
+26] S. Nishimura, N. Abrams, B. A. Lewis, L. I. Halaoui, T. E. Mallouk, K. D. Benkstein, J. van de Lagemaat and A. J. Frank, J. Am. Chem. Soc., 2003, 125, 6306–6310.
+27] S. Colodrero, A. Mihi, L. H€aggman, M. Oca~na, G. Boschloo, A. Hagfeldt and H. Mıguez, Adv. Mater., 2009, 21, 764–770.
+28] I. Rodriguez, F. Ramiro-Manzano, P. Atienzar, J. M. Martinez, F. Meseguer, H. Garcia and A. Corma, J. Mater. Chem., 2007, 17, 3205–3209.
+29] E. T. Yu, J. v. d and Lagemaat, MRS Bull., 2011, 36, 424–428.
+30] A. J. Morfa, K. L. Rowlen, T. H. Reilly, Iii, M. J. Romero and J. van de Lagemaat, Appl. Phys. Lett., 2008, 92, 013504–013506.
