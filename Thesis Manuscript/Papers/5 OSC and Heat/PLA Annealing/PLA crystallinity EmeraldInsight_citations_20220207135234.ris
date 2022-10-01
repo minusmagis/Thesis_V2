@@ -1,0 +1,22 @@
+
+TY  - JOUR
+AB  - Purpose The purpose of this study is to understand how printing parameters and subsequent annealing impacts porosity and crystallinity of 3D printed polylactic acid (PLA) and how these structural characteristics impact the printed material’s tensile strength in various build directions. Design/methodology/approach Two experimental studies were used, and samples with a flat vs upright print orientation were compared. The first experiment investigates a scan of printing parameters and annealing times and temperatures above the cold crystallization temperature (Tcc) for PLA. The second experiment investigates annealing above and below Tcc at multiple points over 12 h. Findings Annealing above Tcc does not significantly impact the porosity but it does increase crystallinity. The increase in crystallinity does not contribute to an increase in strength, suggesting that co-crystallization across the weld does not occur. Atomic force microscopy (AFM) images show that weld interfaces between printed fibers are still visible after annealing above Tcc, confirming the lack of co-crystallization. Annealing below Tcc does not significantly impact porosity or crystallinity. However, there is an increase in tensile strength. AFM images show that annealing below Tcc reduces thermal stresses that form at the interfaces during printing and slightly “heals” the as-printed interface resulting in an increase in tensile strength. Originality/value While annealing has been explored in the literature, it is unclear how it affects porosity, crystallinity and thermal stresses in fused filament fabrication PLA and how those factors contribute to mechanical properties. This study explains how co-crystallization across weld interfaces is necessary for crystallinity to increase strength and uses AFM as a technique to observe morphology at the weld.
+VL  - 27
+IS  - 7
+SN  - 1355-2546
+DO  - 10.1108/RPJ-08-2020-0205
+UR  - https://doi.org/10.1108/RPJ-08-2020-0205
+AU  - von Windheim, Natalia
+AU  - Collinson, David W.
+AU  - Lau, Trent
+AU  - Brinson, L. Catherine
+AU  - Gall, Ken
+PY  - 2021
+Y1  - 2021/01/01
+TI  - The influence of porosity, crystallinity and interlayer adhesion on the tensile strength of 3D printed polylactic acid (PLA)
+T2  - Rapid Prototyping Journal
+PB  - Emerald Publishing Limited
+SP  - 1327
+EP  - 1336
+Y2  - 2022/02/07
+ER  - 
